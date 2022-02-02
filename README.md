@@ -1,0 +1,3 @@
+- 👋 Deflation token with burn mechanism
+- 👀 Our mission is to enable the token to be utilized for everyday purchase both online and offline by collaborating with many payment processing industry players
+- 📫 Dandie inu is a deflation token with a buyback and burn mechanism. Based on Binance Smart Chain which operates on the BEP20 network. BEP20 network is a decentralized platform that takes the need of the community and investors into account and provide tokens of high quality used in everyday life.
